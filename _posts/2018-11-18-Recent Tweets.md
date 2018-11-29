@@ -1,1 +1,1 @@
-<a class="twitter-timeline" data-height="400" data-theme="light" href="https://twitter.com/hzmehrdad?ref_src=twsrc%5Etfw">Tweets by hzmehrdad</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-height="400" data-theme="light" href="https://twitter.com/hzmehrdad?ref_src=twsrc%5Etfw">by hzmehrdad</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
