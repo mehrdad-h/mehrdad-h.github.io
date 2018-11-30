@@ -1,8 +1,12 @@
 ---
-layout: page
+layout: 
 title: Everything Else!
 ---
 
+# Nothing else yet!
+![](https://raw.githubusercontent.com/mehrdad-h/mehrdad-h.github.io/master/public/walleicon.jpg)
+<span style="padding-left:30px; font-size: 10pt; color:#909090 display:block; float:left; clear:both;"><i>&copy; Disney-Pixar 2008</i></span>
+<!--
 <p class="message">
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
 </p>
@@ -28,3 +32,4 @@ Some fun facts about the setup of this project include:
 Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
 
 Thanks for reading!
+-->
